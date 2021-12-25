@@ -23,10 +23,6 @@ And before that also make sure you are on your working directory means rishman-p
 ```
 after this you will get a dist file in which your application is staying. place that application to application folder and voila!
 
-## Screenshots
-
-![App Screenshot](https://snipboard.io/aMgO4E.jpg)
-
 
 ## Instruction
 
